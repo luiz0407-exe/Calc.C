@@ -1,28 +1,24 @@
 # Calc.C
 
-Projeto desenvolvido para praticar lógica de programação utilizando a linguagem C.
+Projeto em desenvolvimento para prática de lógica de programação utilizando a linguagem C.
 
-## Tecnologias
+Calculadora em C
+Versão: v1.0.0
 
-- Linguagem C
-- Biblioteca stdio.h
-- Biblioteca math.h
+Status
+- Primeira versão concluída
 
-## Objetivos
+Funcionalidades
+✔ Soma
+✔ Subtração
+✔ Multiplicação
+✔ Divisão
+✔ Raiz Quadrada
+✔ Loop para múltiplas operações
 
-Este projeto foi desenvolvido para praticar:
-
-- Estruturas de decisão (switch)
-- Estruturas de repetição
-- Funções
-- Entrada e saída de dados
-- Modularização
-
-### v1.0.0
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-- Raiz Quadrada
-- Menu interativo
-- Repetição utilizando do...while
+Próximas Atualizações
+⬜ Operações com N números
+⬜ Histórico
+⬜ Interface gráfica
+⬜ Tema escuro
+⬜ Calculadora científica
