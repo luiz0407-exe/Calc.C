@@ -6,7 +6,7 @@ Calculadora em C
 Versão: v1.0.0
 
 Status
-- Primeira versão concluída
+Primeira etapa concluída ✔
 
 Funcionalidades
 ✔ Soma
